@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project involves using BeautifuSoup library in Python to parse and extract information from Mars News Website then analyze the data using Pandas library.
+This project involves using BeautifulSoup library in Python to parse and extract information from Mars News Website then analyze the data using Pandas library.
 
 ### Part 1: Scrape Titles and Preview Text from Mars News
 
