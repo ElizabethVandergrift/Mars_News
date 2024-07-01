@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Mars News and Weather
 
 ## Overview
@@ -69,6 +68,3 @@ Analyze your dataset by using Pandas functions to answer the following questions
 - **part_1_mars_news.ipynb**: Jupyter notebook used for Mars News Website Scraping, Extraction and Preview of text
 - **part_2_mars_weather.ipynb**: Jupyter notebook used for Mars Weather Analysis.
 - **README.md**: This file.
-=======
-
->>>>>>> 3c378c2dc085a81b9fdf81a69f0fddb025f830bd
